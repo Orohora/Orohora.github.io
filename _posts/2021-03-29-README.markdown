@@ -1,0 +1,26 @@
+---
+layout: single
+title:  "README"
+date:   2021-03-29 03:57:49 +0900
+categories: algorithm closestpair
+---
+과제명 | ClosestPair
+------- | ------- | ------- | -------
+팀원 | 오성환 | 이채진 | 최종혁 | 최태성
+회의일정 | 2021년 3월 29일 ZOOM 미팅 - 현 상황 파악 및 계획 설정
+ | 2021년 3월 39일 ZOOM 미팅 - 코드 제작
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+조원 | 역할
+------- | ------- 
+오성환 | 
+이채진 | 
+최종혁 | 
+최태성 | 
